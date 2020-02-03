@@ -7,3 +7,4 @@ Ayush Bansal <https://github.com/ayu023ban> - [HTML Assignment - IMG Recriuitmen
 Gagan Sharma <https://github.com/gagansh7171> - [HTML Assignment - IMG Recriuitment website] - <https://gagansh7171.github.io/img-assign/>
 
 Prerna Kumar <https://github.com/Prernaswarna> - [HTML Assignment - IMG Recriuitment website] - <https://prernaswarna.github.io/imgassignment/>
+as
