@@ -19,3 +19,5 @@ Kunal Khandelwal <https://github.com/ktg-123> - [HTML Assignment - IMG Recruitme
 
 Rochak Jain https://github.com/rochakjain361 -[HTML Assignment - IMG Recriuitment website] - https://rochakjain361.github.io/IMGFirstAssignment/IMGFirst.html
 RUDRAKSH AGGARWAL https://github.com/ruddi10 -[HTML Assignment - IMG Recruitment website] -
+Gopal Gupta https://github.com/GopalGupta8216 -[HTML Asssignment - IMG Recruitment website] -
+
