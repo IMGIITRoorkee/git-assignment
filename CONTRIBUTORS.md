@@ -30,4 +30,4 @@ Shreyas Dodamani <https://github.com/shreyasdoda> - [HTML Assignment - IMG Recru
 
 Yavnika Garg <https://github.com/Yavnikaa> - [HTML Assignment - IMG Recruitment Website]- <https://yavnikaa.github.io/project.html>
 
-Gopal Gupta https://github.com/GopalGupta8216 -[HTML Assignment - IMG Recruitment website] -<https://github.com/GopalGupta8216/IMG-ASSIGNMENT-1>
+Gopal Gupta https://github.com/GopalGupta8216 -[HTML Assignment - IMG Recruitment website] -<https://gopalgupta8216.github.io/IMG-ASSIGNMENT-1/IMG%20REcruitment%20website/home.html>
