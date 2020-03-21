@@ -18,8 +18,9 @@ Mihir Sachdeva <https://github.com/mihirsachdeva> - [HTML Assignment - IMG Recru
 Kunal Khandelwal <https://github.com/ktg-123> - [HTML Assignment - IMG Recruitment website] - <https://ktg-123.github.io/>
 
 Rochak Jain https://github.com/rochakjain361 -[HTML Assignment - IMG Recriuitment website] - https://rochakjain361.github.io/IMGFirstAssignment/IMGFirst.html
-RUDRAKSH AGGARWAL https://github.com/ruddi10 -[HTML Assignment - IMG Recruitment website] -
 
+RUDRAKSH AGGARWAL https://github.com/ruddi10 -[HTML Assignment - IMG Recruitment website] -https://ruddi10.github.io/frontendpractice/
+RUDRAKSH AGGARWAL https://github.com/ruddi10 -[HTML Assignment - IMG Recruitment website] -
 Yash Khandelwal <https://github.com/yash523> - [HTML Assignment - IMG Recruitment website] - home page: <https://yash523.github.io/index.html>    development page: <https://yash523.github.io/img_developmentpg.html>
 
 Gauransh Dingwani <https://github.com/gauransh> - [HTML Assignment - IMG Recruitment website] - <https://gauransh7.github.io/recruitment/recruitment.html>
@@ -28,6 +29,7 @@ Prakhar Gupta <https://github.com/bpraak> - [HTML Assignment - IMG Recruitment W
 
 Shreyas Dodamani <https://github.com/shreyasdoda> - [HTML Assignment - IMG Recruitment Website] - <https://shreyasdoda.github.io/IMG_HTML_CSS_Assignment/>
 
-Yavnika Garg <https://github.com/Yavnikaa> - [HTML Assignment - IMG Recruitment Website]- <https://yavnikaa.github.io/project.html>
+Yavnika Garg <https://github.com/Yavnikaa> - [HTML Assignment - IMG Recruitment Website]- <https://yavnikaa.github.io/project.html
 
+Prerna Kumar https://github.com/prernaswarna - [HTML Assignment - IMG Recruitment Website] - https://prernaswarna.github.io/imgassignment/
 Gopal Gupta https://github.com/GopalGupta8216 -[HTML Assignment - IMG Recruitment website] -<https://gopalgupta8216.github.io/IMG-ASSIGNMENT-1/IMG%20REcruitment%20website/home.html>
